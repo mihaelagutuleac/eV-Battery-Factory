@@ -5,7 +5,7 @@
 ### URL
 LinkBehaviour_88FA4EE1_944F_F667_41CE_254016E457BD.source = https://www.efeso.com/
 LinkBehaviour_93DCFB9B_8FE8_3F87_419E_6A2A02F1BD5A.source = https://www.elma.com/en
-WebFrame_B9710331_AE34_EBE0_41DE_CD4941485CA9.url = https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=PARC%20INDUSTRIAL%20INCONTRO%20TIMISOARA&zoom=15&maptype=satellite
+WebFrame_B9710331_AE34_EBE0_41DE_CD4941485CA9.url = https://www.google.com/maps?q=PARC%20INDUSTRIAL%20INCONTRO%20TIMISOARA&zoom=15&maptype=satellite
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=parc%20industrial%20incontro%20timisoara&zoom=15&maptype=satellite
 PopupWebFrameBehaviour_B2FA8AF1_AEDD_0EBF_41D6_6D9FAAC5A36D.url = https://www.google.com/maps/search/incontro+timisoara/@45.6956668,21.1840476,1789m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D
 
